@@ -1,2 +1,2 @@
-# No external dependencies required - this project uses only the
-# Python standard library (re, argparse, collections).
+No external dependencies required - this project uses only the
+Python standard library (re, argparse, collections).
