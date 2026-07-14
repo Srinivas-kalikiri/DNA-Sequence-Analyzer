@@ -29,7 +29,7 @@ dna-sequence-analyzer/
 
 ## Setup
 ```bash
-git clone https://github.com/<Srinivas-kalikiri>/dna-sequence-analyzer.git
+git clone https://github.com/Srinivas-kalikiri/dna-sequence-analyzer.git
 cd dna-sequence-analyzer
 ```
 No external dependencies are required — just Python 3.9+.
